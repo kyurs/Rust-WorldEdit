@@ -64,7 +64,7 @@ The original WorldEdit and FAWE projects are not affiliated with this implementa
 
 These projects are independently installed; none requires the other three.
 
-- [Custom Skins](https://github.com/kyurs/Rust-CustomSkins): official skins and moderation on Velocity.
+- [Custom Skins](https://github.com/kyurs/Rust-CustomSkins): native Pumpkin official skins and moderation.
 - [Pumpkin Voice](https://github.com/kyurs/Rust-PumpkinVoice): native Pumpkin proximity voice.
 - [Rust Tab List](https://github.com/kyurs/Rust-TabList): native ranks, chat and metrics with a Velocity bridge.
 - [Rust WorldEdit](https://github.com/kyurs/Rust-WorldEdit): native operator-only core editing.
